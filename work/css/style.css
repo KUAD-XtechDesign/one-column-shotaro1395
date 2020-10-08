@@ -32,7 +32,7 @@ img{
   margin: 10px 0;
   border-radius: 5px;
   background-color: rgb(63, 169, 245);
-  color: #fff;
+  color: rgb(63, 169, 245);
   cursor: pointer;
   position: absolute;
   right: 30px;
